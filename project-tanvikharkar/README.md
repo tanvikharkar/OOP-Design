@@ -2,7 +2,7 @@
 
 Hello! This is the project we'll be playing with all quarter.
 You should load this into IntelliJ IDEA using the same procedure
-that you use for labs. 
+that you use for labs.  
 
 Instructions for the project will be in a Canvas assignment.
 
